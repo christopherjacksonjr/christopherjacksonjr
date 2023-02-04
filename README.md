@@ -1,4 +1,4 @@
-(https://github.com/christopherjacksonjr/christopherjacksonjr/blob/main/GitHub%20Banner.png)
+![logo](https://github.com/christopherjacksonjr/christopherjacksonjr/blob/main/GitHub%20Banner.png)
 <!-- ### Hi there 👋 -->
 
 <!--
