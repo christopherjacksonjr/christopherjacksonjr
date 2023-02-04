@@ -1,5 +1,5 @@
 ![logo](https://github.com/christopherjacksonjr/christopherjacksonjr/blob/main/GitHub%20Banner.png)
-<!-- ### Hi there 👋 -->
+<h1 align="center">### Hi 👋, I'm Chris</h1>
 
 <!--
 **christopherjacksonjr/christopherjacksonjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
